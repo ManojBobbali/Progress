@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojBobbali/Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 ## Hash Table
 |  |
@@ -20,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojBobbali/Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojBobbali/Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
