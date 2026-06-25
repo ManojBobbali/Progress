@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManojBobbali/Progress/tree/master/0020-valid-parentheses) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManojBobbali/Progress/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
