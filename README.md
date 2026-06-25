@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojBobbali/Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +33,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojBobbali/Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
