@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ManojBobbali/Progress/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojBobbali/Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojBobbali/Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/ManojBobbali/Progress/tree/master/1288-remove-covered-intervals) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/ManojBobbali/Progress/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ManojBobbali/Progress/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManojBobbali/Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
