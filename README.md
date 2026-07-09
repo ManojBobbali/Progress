@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/ManojBobbali/Progress/tree/master/1288-remove-covered-intervals) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojBobbali/Progress/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManojBobbali/Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ManojBobbali/Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManojBobbali/Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ManojBobbali/Progress/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ManojBobbali/Progress/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojBobbali/Progress/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Sorting
 |  |
 | ------- |
@@ -200,8 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojBobbali/Progress/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 ## Graph Theory
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojBobbali/Progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Bitmask
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojBobbali/Progress/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 <!---LeetCode Topics End-->
