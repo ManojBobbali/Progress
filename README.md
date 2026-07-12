@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/ManojBobbali/Progress/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ManojBobbali/Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojBobbali/Progress/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManojBobbali/Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ManojBobbali/Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/ManojBobbali/Progress/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
+| [1331-rank-transform-of-an-array](https://github.com/ManojBobbali/Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojBobbali/Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ManojBobbali/Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojBobbali/Progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/ManojBobbali/Progress/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ManojBobbali/Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManojBobbali/Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
