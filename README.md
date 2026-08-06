@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ManojBobbali/Progress/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManojBobbali/Progress/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManojBobbali/Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojBobbali/Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/ManojBobbali/Progress/tree/master/0861-score-after-flipping-matrix) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojBobbali/Progress/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ManojBobbali/Progress/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManojBobbali/Progress/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ManojBobbali/Progress/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
