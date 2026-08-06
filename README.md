@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ManojBobbali/Progress/tree/master/0518-coin-change-ii) |
+| [0848-shifting-letters](https://github.com/ManojBobbali/Progress/tree/master/0848-shifting-letters) |
 | [0861-score-after-flipping-matrix](https://github.com/ManojBobbali/Progress/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/ManojBobbali/Progress/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ManojBobbali/Progress/tree/master/0165-compare-version-numbers) |
 | [0516-longest-palindromic-subsequence](https://github.com/ManojBobbali/Progress/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/ManojBobbali/Progress/tree/master/0686-repeated-string-match) |
+| [0848-shifting-letters](https://github.com/ManojBobbali/Progress/tree/master/0848-shifting-letters) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ManojBobbali/Progress/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojBobbali/Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/ManojBobbali/Progress/tree/master/0848-shifting-letters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ManojBobbali/Progress/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ManojBobbali/Progress/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManojBobbali/Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
