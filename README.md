@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ManojBobbali/Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ManojBobbali/Progress/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/ManojBobbali/Progress/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojBobbali/Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojBobbali/Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ManojBobbali/Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ManojBobbali/Progress/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManojBobbali/Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/ManojBobbali/Progress/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/ManojBobbali/Progress/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojBobbali/Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ManojBobbali/Progress/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManojBobbali/Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/ManojBobbali/Progress/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/ManojBobbali/Progress/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/ManojBobbali/Progress/tree/master/0686-repeated-string-match) |
 | [0848-shifting-letters](https://github.com/ManojBobbali/Progress/tree/master/0848-shifting-letters) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ManojBobbali/Progress/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ManojBobbali/Progress/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojBobbali/Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
