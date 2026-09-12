@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ManojBobbali/Progress/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojBobbali/Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojBobbali/Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManojBobbali/Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ManojBobbali/Progress/tree/master/0518-coin-change-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManojBobbali/Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ManojBobbali/Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ManojBobbali/Progress/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManojBobbali/Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/ManojBobbali/Progress/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManojBobbali/Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManojBobbali/Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManojBobbali/Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojBobbali/Progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
