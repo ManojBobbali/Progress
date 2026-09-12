@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ManojBobbali/Progress/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/ManojBobbali/Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ManojBobbali/Progress/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ManojBobbali/Progress/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ManojBobbali/Progress/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ManojBobbali/Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ManojBobbali/Progress/tree/master/0165-compare-version-numbers) |
+| [0424-longest-repeating-character-replacement](https://github.com/ManojBobbali/Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/ManojBobbali/Progress/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/ManojBobbali/Progress/tree/master/0686-repeated-string-match) |
 | [0848-shifting-letters](https://github.com/ManojBobbali/Progress/tree/master/0848-shifting-letters) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ManojBobbali/Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojBobbali/Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
