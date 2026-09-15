@@ -13,22 +13,19 @@ class Solution {
 public:
     bool sametree(TreeNode* p,TreeNode* q){
         if(!p && !q)return true;
-        if(!p)return false;
-        if(!q)return false;
+        if(!p || !q)return false;
         if(q->val != p->val)return false;
         return sametree(p->left,q->left) && sametree(p->right,q->right);
     }
-    void dfs(TreeNode* root,TreeNode* subroot,bool& found){
-        if(!root) return;
+    bool dfs(TreeNode* root,TreeNode* subroot){
+        if(!root) return false;
         if(root->val == subroot->val){
-            if(!found) found = sametree(root,subroot);
+            if(sametree(root,subroot)) return true;
         }
-        dfs(root->left,subroot,found);
-        dfs(root->right,subroot,found);
+        return dfs(root->left,subroot) || dfs(root->right,subroot);
    }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        bool found = false;
-        dfs(root,subRoot,found);
-        return found;
+        return dfs(root,subRoot);
+        
     }
 };
