@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ManojBobbali/Progress/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojBobbali/Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojBobbali/Progress/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojBobbali/Progress/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManojBobbali/Progress/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ManojBobbali/Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManojBobbali/Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojBobbali/Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojBobbali/Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojBobbali/Progress/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ManojBobbali/Progress/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManojBobbali/Progress/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojBobbali/Progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ManojBobbali/Progress/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/ManojBobbali/Progress/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojBobbali/Progress/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ManojBobbali/Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ManojBobbali/Progress/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManojBobbali/Progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojBobbali/Progress/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManojBobbali/Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ManojBobbali/Progress/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManojBobbali/Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManojBobbali/Progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
