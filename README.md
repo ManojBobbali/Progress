@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/ManojBobbali/Progress/tree/master/0848-shifting-letters) |
 | [0861-score-after-flipping-matrix](https://github.com/ManojBobbali/Progress/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/ManojBobbali/Progress/tree/master/0881-boats-to-save-people) |
+| [1046-last-stone-weight](https://github.com/ManojBobbali/Progress/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/ManojBobbali/Progress/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/ManojBobbali/Progress/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojBobbali/Progress/tree/master/1331-rank-transform-of-an-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManojBobbali/Progress/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/ManojBobbali/Progress/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManojBobbali/Progress/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
