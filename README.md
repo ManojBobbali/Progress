@@ -330,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ManojBobbali/Progress/tree/master/0572-subtree-of-another-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManojBobbali/Progress/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
